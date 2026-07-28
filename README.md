@@ -1,14 +1,13 @@
-<!-- Banner / Cover -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/⟪GITHUB_USERNAME⟫/⟪GITHUB_USERNAME⟫/main/assets/banner.svg" alt="header image" />
-</p>
+<!-- ========================= HEADER ========================= -->
 
-<h1 align="center">
-Hi, I'm ⟪YOUR_NAME⟫ 👋
-</h1>
+<h1 align="center">Hi, I'm Tunwa Jitrat 👋</h1>
 
 <p align="center">
 Computer Science Student • Backend Developer • AI Enthusiast
+</p>
+
+<p align="center">
+Building intelligent web applications with Spring Boot, Next.js and TensorFlow.
 </p>
 
 ---
@@ -16,29 +15,77 @@ Computer Science Student • Backend Developer • AI Enthusiast
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Student
-- 🌾 Developing an AI system for Rice Pest Detection
+- 🌾 Developing an **AI Rice Pest Detection System**
 - ☕ Passionate about Java & Spring Boot
 - ⚛️ Currently learning Next.js
-- 🤖 Interested in Machine Learning & Computer Vision
-- 📍 Thailand
+- 🤖 Interested in AI, Computer Vision and Deep Learning
+- 🌱 Always learning new technologies
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack & Tools
 
-<p align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,nextjs,react,python,tensorflow,git,github,vscode,postman" />
+### 💻 Programming Languages
 
-</p>
+- Java
+- Python
+- JavaScript
+- SQL
+- Dart
+
+### ⚙️ Backend Development
+
+- Spring Boot
+- RESTful API
+- MySQL
+
+### 🎨 Frontend Development
+
+- Next.js
+- React
+- HTML5
+- CSS3
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🤖 Artificial Intelligence
+
+- TensorFlow
+- MobileNetV2
+- Computer Vision
+- Image Classification
+
+### 📱 Mobile Development
+
+- Flutter
+
+### 🛠 Development Tools
+
+- Git & GitHub
+- VS Code
+- IntelliJ IDEA
+- Postman
+- Figma
+- Canva
+- Microsoft 365
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌾 Featured Project
+## 🚀 Featured Projects
 
-### 🤖 AI Rice Pest Detection System
+### 🌾 AI Rice Pest Detection System
 
-An AI-powered web application that detects rice pests from images using Deep Learning.
+An AI-powered web application for detecting rice pests using image classification.
 
 **Tech Stack**
 
@@ -52,29 +99,41 @@ An AI-powered web application that detects rice pests from images using Deep Lea
 
 ### 💊 Rice Chemical Calculator
 
-A web application that recommends chemical usage based on rice field size.
+Calculate recommended chemical usage based on rice field size.
 
 **Tech Stack**
 
 - Spring Boot
+- RESTful API
 - MySQL
-- REST API
+
+---
+
+### 📚 Portfolio Website
+
+Personal portfolio showcasing my projects, technical skills and learning journey.
+
+**Tech Stack**
+
+- Next.js
+- React
+- Tailwind CSS
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=⟪GITHUB_USERNAME⟫&show_icons=true&hide_border=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Runglang&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=⟪GITHUB_USERNAME⟫&layout=compact&hide_border=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Runglang&layout=compact&theme=transparent&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
 - 📧 Email : your-email@example.com
 - 💼 LinkedIn : https://linkedin.com/in/your-profile
@@ -84,6 +143,6 @@ A web application that recommends chemical usage based on rice field size.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=⟪GITHUB_USERNAME⟫&style=flat-square" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Runglang&style=flat-square" />
 
 </p>
