@@ -192,7 +192,7 @@ Calculate chemical usage based on rice field size.
 
 - 📩 Email: ⟪tunhon458@gmail.com⟫  
 - 📝 LineID: xenoo24
-- 🐦 DM me on [Facebook](<a href="https://www.facebook.com/profile.php?id=61591087048659">)
+- 🐦 DM me on <a href="https://www.facebook.com/profile.php?id=61591087048659">[Facebook]</a>
 
 <img src="https://komarev.com/ghpvc/?username=Runglang&style=flat-square"/>
 
