@@ -150,8 +150,8 @@ Calculate chemical usage based on rice field size.
     </td>
     <!-- ฝั่งขวา: ใส่คำอธิบาย -->
     <td>
-      <h3>🚀 กำลังโฟกัสกับอะไรอยู่?</h3>
-      <p>ตอนนี้กำลังพัฒนาโปรเจกต์ระบบตรวจจับโรคพืชในข้าวด้วย AI และศึกษาสแต็ก Backend อย่าง Spring Boot เพิ่มเติมครับ!</p>
+      <h3>🚀 What am I focusing on??</h3>
+      <p>I am currently developing an AI-based plant disease detection system for rice and further studying the Spring Boot backend stack!</p>
     </td>
   </tr>
 </table>
