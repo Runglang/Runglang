@@ -163,10 +163,10 @@ Calculate chemical usage based on rice field size.
 ## 📫 Connect With Me
 
 <p align="center">
-  <!-- Gmail / Email -->
-  <a href="mailto:tunhon458@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<!-- Gmail (เปิดหน้าเขียนเมลในเว็บให้อัตโนมัติ) -->
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=tunhon458@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/EMAIL-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
   
   <!-- GitHub -->
   <a href="https://github.com/Runglang">
@@ -174,10 +174,15 @@ Calculate chemical usage based on rice field size.
   </a>
   
   <!-- Facebook -->
-  <a href="[https://facebook.com/your_profile](https://www.facebook.com/profile.php?id=61591087048659)">
+  <a href="https://www.facebook.com/profile.php?id=61591087048659">
     <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
+
+<!-- Line -->
+<a href="https://line.me/ti/p/xenoo24" target="_blank">
+  <img src="https://img.shields.io/badge/LINE-00C73C?style=for-the-badge&logo=line&logoColor=white" alt="Line" />
+</a>
 
 ---
 
