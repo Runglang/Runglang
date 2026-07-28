@@ -107,7 +107,7 @@ Building intelligent applications with Spring Boot, Next.js and TensorFlow.
 
 <td width="50%">
 
-### 🤖 AI Rice Pest Detection
+### 🤖 AI Rice Pest Detection Website
 
 Detect rice pests using Deep Learning.
 
@@ -122,7 +122,7 @@ Detect rice pests using Deep Learning.
 
 <td>
 
-### 💊 Rice Chemical Calculator
+### 💊 Rice Chemical Calculator Mobile Application
 
 Calculate chemical usage based on rice field size.
 
