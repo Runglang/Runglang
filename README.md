@@ -35,53 +35,59 @@ Building intelligent applications with Spring Boot, Next.js and TensorFlow.
 ## 🛠 Tech Stack & Tools
 
 <table>
+
 <tr>
 
 <td valign="top" width="50%">
 
 ### Programming Languages
-- Java
-- Python
-- JavaScript
-- SQL
-- Dart
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 
 ### Back-end
-- Spring Boot
-- RESTful API
-- MySQL
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Front-end
-- Next.js
-- React
-- HTML5
-- CSS3
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </td>
 
 <td valign="top" width="50%">
 
 ### Artificial Intelligence
-- TensorFlow
-- MobileNetV2
-- Computer Vision
-- Image Classification
 
-### Mobile Development
-- Flutter
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![MobileNetV2](https://img.shields.io/badge/MobileNetV2-4285F4?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C2D91?style=flat-square)
+
+### Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ### Development Tools
-- Git & GitHub
-- VS Code
-- IntelliJ IDEA
-- Postman
-- Figma
-- Canva
-- Microsoft 365
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva)
 
 </td>
 
 </tr>
+
 </table>
 
 ### 🤖 Artificial Intelligence
