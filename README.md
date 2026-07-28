@@ -142,6 +142,20 @@ Calculate chemical usage based on rice field size.
 
 ---
 
+<table border="0">
+  <tr>
+    <!-- ฝั่งซ้าย: ใส่ GIF -->
+    <td width="50%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif" width="100%" />
+    </td>
+    <!-- ฝั่งขวา: ใส่คำอธิบาย -->
+    <td>
+      <h3>🚀 กำลังโฟกัสกับอะไรอยู่?</h3>
+      <p>ตอนนี้กำลังพัฒนาโปรเจกต์ระบบตรวจจับโรคพืชในข้าวด้วย AI และศึกษาสแต็ก Backend อย่าง Spring Boot เพิ่มเติมครับ!</p>
+    </td>
+  </tr>
+</table>
+
 ## 📈 GitHub Statistics
 
 <p align="center">
