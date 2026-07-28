@@ -64,12 +64,6 @@ Building intelligent applications with Spring Boot, Next.js and TensorFlow.
 
 <td valign="top" width="50%">
 
-### Artificial Intelligence
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![MobileNetV2](https://img.shields.io/badge/MobileNetV2-4285F4?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C2D91?style=flat-square)
-
 ### Mobile
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -78,8 +72,6 @@ Building intelligent applications with Spring Boot, Next.js and TensorFlow.
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva)
