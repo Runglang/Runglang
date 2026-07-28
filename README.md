@@ -14,7 +14,7 @@ Hi, I'm <b>Tunwa Jitrat</b> 👋
 </p>
 
 <p align="center">
-Building intelligent applications with Spring Boot and Next.js.
+Building intelligent applications with Spring Boot, Next.js and Tensorflow.
 </p>
 
 ---
