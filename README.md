@@ -146,12 +146,12 @@ Calculate chemical usage based on rice field size.
   <tr>
     <!-- ฝั่งซ้าย: ใส่ GIF -->
     <td width="50%" align="center">
-      <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyaHR5ZGJ5NzZpY3k0cnp0bGg3dGloaDl2cTJuZHdhYThob2h2cTI3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13GIgrGdslD9oQ/giphy.gif)" width="100%" />
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyaHR5ZGJ5NzZpY3k0cnp0bGg3dGloaDl2cTJuZHdhYThob2h2cTI3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13GIgrGdslD9oQ/giphy.gif" width="100%" />
     </td>
     <!-- ฝั่งขวา: ใส่คำอธิบาย -->
     <td>
-      <h3>🚀 What am I focusing on?</h3>
-      <p>I am currently developing an AI-based plant disease detection system for rice and further studying the Spring Boot backend stack!</p>
+      <h3>🚀 กำลังโฟกัสกับอะไรอยู่?</h3>
+      <p>ตอนนี้กำลังพัฒนาโปรเจกต์ระบบตรวจจับโรคพืชในข้าวด้วย AI และศึกษาสแต็ก Backend อย่าง Spring Boot เพิ่มเติมครับ!</p>
     </td>
   </tr>
 </table>
