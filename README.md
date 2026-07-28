@@ -39,22 +39,19 @@ Building intelligent applications with Spring Boot, Next.js and TensorFlow.
 
 <td valign="top" width="50%">
 
-### 💻 Programming Languages
-
+### Programming Languages
 - Java
 - Python
 - JavaScript
 - SQL
 - Dart
 
-### ⚙️ Backend
-
+### Back-end
 - Spring Boot
 - RESTful API
 - MySQL
 
-### 🎨 Frontend
-
+### Front-end
 - Next.js
 - React
 - HTML5
@@ -63,6 +60,29 @@ Building intelligent applications with Spring Boot, Next.js and TensorFlow.
 </td>
 
 <td valign="top" width="50%">
+
+### Artificial Intelligence
+- TensorFlow
+- MobileNetV2
+- Computer Vision
+- Image Classification
+
+### Mobile Development
+- Flutter
+
+### Development Tools
+- Git & GitHub
+- VS Code
+- IntelliJ IDEA
+- Postman
+- Figma
+- Canva
+- Microsoft 365
+
+</td>
+
+</tr>
+</table>
 
 ### 🤖 Artificial Intelligence
 
