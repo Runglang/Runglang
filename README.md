@@ -9,7 +9,7 @@ Hi, I'm <b>Tunwa Jitrat</b> 👋
 </h1>
 
 <p align="center">
-Computer Science Student • Backend Developer • AI Enthusiast
+• Science Information technology Student •
 </p>
 
 <p align="center">
