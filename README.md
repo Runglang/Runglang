@@ -2,7 +2,7 @@
 <!-- ================= Banner ================= -->
 
 <p align="center">
-  <img width="1538" height="2047" alt="mee" src="https://github.com/user-attachments/assets/e1609871-5a40-4177-b156-78d456fdce4d" />
+  <img width="250" alt="mee" src="https://github.com/user-attachments/assets/e1609871-5a40-4177-b156-78d456fdce4d" />
 </p>
 
 <h1 align="center">
