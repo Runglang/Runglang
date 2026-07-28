@@ -120,10 +120,6 @@ Detect rice pests using Deep Learning.
 
 </td>
 
-</tr>
-
-<tr>
-
 <td>
 
 ### 💊 Rice Chemical Calculator
