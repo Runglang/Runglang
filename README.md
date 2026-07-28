@@ -43,7 +43,6 @@ Building intelligent applications with Spring Boot, Next.js and TensorFlow.
 ### Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 
@@ -82,13 +81,6 @@ Building intelligent applications with Spring Boot, Next.js and TensorFlow.
 
 </table>
 
-### 🤖 Artificial Intelligence
-
-- TensorFlow
-- MobileNetV2
-- Image Classification
-- Computer Vision
-
 ### 📱 Mobile
 
 - Flutter
@@ -96,8 +88,6 @@ Building intelligent applications with Spring Boot, Next.js and TensorFlow.
 ### 🛠 Development Tools
 
 - Git & GitHub
-- VS Code
-- IntelliJ IDEA
 - Postman
 - Figma
 - Canva
@@ -130,21 +120,9 @@ Detect rice pests using Deep Learning.
 
 </td>
 
-<td>
-
-<img src="assets/ricebug.png"/>
-
-</td>
-
 </tr>
 
 <tr>
-
-<td>
-
-<img src="assets/calculator.png"/>
-
-</td>
 
 <td>
 
@@ -154,6 +132,7 @@ Calculate chemical usage based on rice field size.
 
 **Tech Stack**
 
+- Flutter
 - Spring Boot
 - REST API
 - MySQL
