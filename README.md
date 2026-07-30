@@ -82,22 +82,6 @@ Building intelligent applications with Spring Boot, Next.js and Tensorflow.
 
 </table>
 
-### 📱 Mobile
-
-- Flutter
-
-### 🛠 Development Tools
-
-- Git & GitHub
-- Postman
-- Figma
-- Canva
-
-</td>
-
-</tr>
-</table>
-
 ---
 
 # 🌾 Featured Projects
