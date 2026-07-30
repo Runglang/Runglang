@@ -21,7 +21,7 @@ Building intelligent applications with Spring Boot, Next.js and Tensorflow.
 
 ## 🚀 About Me
 
-🎓 Computer Science Student
+🎓 Science Information technology Student
 
 🌾 Currently developing an **AI Rice Pest Detection System**
 
