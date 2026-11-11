@@ -87,42 +87,75 @@ Building intelligent applications with Spring Boot, Next.js and Tensorflow.
 # 🌾 Featured Projects
 
 <table>
-
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🤖 RiceBugAI
 
-### 🤖 AI Rice Pest Detection Website
+**AI-Powered Rice Pest Insect Analysis Website**
 
-Detect rice pests using Deep Learning.
+A full-stack website designed to help rice farmers identify insect pests in rice fields using Deep Learning. The system analyzes uploaded insect images and provides relevant pest information, along with tools for managing agricultural chemical information and calculating chemical usage based on rice field area.
+
+**Key Features**
+- AI-based insect image classification
+- Three AI models for different rice growth stages
+- Insect and chemical information management
+- Rice field management
+- Agricultural chemical usage calculation
 
 **Tech Stack**
+- Frontend: Next.js, React, TypeScript, Tailwind CSS
+- Backend: Java, Spring Boot, REST API
+- AI: Python, FastAPI, TensorFlow, MobileNetV2
+- Database: MySQL
 
-- TensorFlow
-- Spring Boot
-- MySQL
-- Next.js
+🔗 [View Source Code](https://github.com/Runglang/RiceBugAI)
 
 </td>
+<td width="50%" valign="top">
 
-<td>
+### 💊 Rice Chemical Calculator
 
-### 💊 Rice Chemical Calculator Mobile Application
+**Rice Chemical Calculation Mobile Application**
 
-Calculate chemical usage based on rice field size.
+A mobile application designed to help users calculate agricultural chemical usage based on rice field area.
 
 **Tech Stack**
-
 - Flutter
-- Spring Boot
+- Java, Spring Boot
 - REST API
 - MySQL
 
 </td>
-
 </tr>
-
 </table>
+
+### 📸 RiceBugAI – Website Screenshots
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://raw.githubusercontent.com/Runglang/RiceBugAI/main/docs/images/dashboard.png" width="100%" alt="Dashboard"/>
+<b>Dashboard</b>
+</td>
+<td width="50%" align="center">
+<img src="https://raw.githubusercontent.com/Runglang/RiceBugAI/main/docs/images/analysis.png" width="100%" alt="Insect Analysis"/>
+<b>Insect Analysis</b>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="https://raw.githubusercontent.com/Runglang/RiceBugAI/main/docs/images/analysis-result.png" width="100%" alt="Analysis Result"/>
+<b>Analysis Result</b>
+</td>
+<td width="50%" align="center">
+<img src="https://raw.githubusercontent.com/Runglang/RiceBugAI/main/docs/images/calculation-result.png" width="100%" alt="Calculation Result"/>
+<b>Calculation Result</b>
+</td>
+</tr>
+</table>
+
+🔗 [View All 7 Screenshots](https://github.com/Runglang/RiceBugAI/tree/main/docs/images)
 
 ---
 
