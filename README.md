@@ -92,7 +92,7 @@ Building intelligent applications with Spring Boot, Next.js and Tensorflow.
 
 <td width="50%">
 
-### 🤖 AI Rice Pest Detection Website {Finish development}
+### 🤖 AI Rice Pest Detection Website
 
 Detect rice pests using Deep Learning.
 
