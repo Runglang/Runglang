@@ -174,7 +174,7 @@ Calculate chemical usage based on rice field size.
   </a>
 
   <!-- Line -->
-  <a href="https://line.me/ti/p/~xenoo24" target="_blank">
+  <a href="https://line.me/ti/p/~frame121245" target="_blank">
     <img src="https://img.shields.io/badge/LINE-00C73C?style=for-the-badge&logo=line&logoColor=white" alt="Line" />
   </a>
 </p>
