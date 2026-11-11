@@ -159,7 +159,7 @@ Calculate chemical usage based on rice field size.
 
 <p align="center">
   <!-- Gmail -->
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tunhon458@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tunwa.jr08@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
